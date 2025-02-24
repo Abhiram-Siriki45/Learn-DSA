@@ -30,7 +30,7 @@ This Repository covers the roadmap for Mastering Data Structures and Algorithms 
 </div>
 
 
-## 5 steps to Mastering DSA
+## 5 Steps to Mastering DSA
 
 Mastering DSA as a beginner is simplified into 5 steps:
 
