@@ -1,5 +1,5 @@
 # DSA-MASTERY by [Abhiram-Siriki45](https://github.com/Abhiram-Siriki45) ❤️👑
-# DSA visualizer
+# DSA Visualizer
 
 
 </br>
