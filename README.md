@@ -32,7 +32,7 @@ This Repository covers the roadmap for Mastering Data Structures and Algorithms 
 
 ## 5 Steps to Mastering DSA
 
-Mastering DSA as a beginner is simplified into 5 steps:
+Mastering DSA as a Beginner is simplified into 5 steps:
 
 1. Choose a programming language.
 2. Understand time and space complexities.
