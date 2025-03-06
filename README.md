@@ -58,7 +58,7 @@ Choose a language, whether it's [**Java**](https://www.geeksforgeeks.org/java/),
 
 ## 2. Understand Complexities
 
-Now, let's delve into an interesting and crucial topic. The main goal of using DSA is to solve problems effectively and efficiently. How do you assess if your program is efficient? This is where complexities come in, and there are two types:
+Now, let's dive into an interesting and crucial topic. The main goal of using DSA is to solve problems effectively and efficiently. How do you assess if your program is efficient? This is where complexities come in, and there are two types:
 
 1. **Time Complexity:** It measures the time needed to execute the code.
 2. **Space Complexity:** It indicates the space required for the code to function successfully.
